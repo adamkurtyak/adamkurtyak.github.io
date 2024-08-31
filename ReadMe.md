@@ -2,7 +2,7 @@
 **BI DEVELOPER │ BUSINESS ANALYST**
 
 ## Contact:
-- **Email:** kurtyakadam [at] gmail [dot] com
+- **Email:** <a href="mailto:kurtyakadam@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - **Phone:** 36 (30) 717-5337
 - **Location:** Budapest, HU
 
@@ -32,9 +32,6 @@ With a solid foundation in spatial analysis and statistics, and 9 years of data 
 - Conducted physical asset surveys across various PoP sites (data centers) in Europe, contributing to the integrity of the Network Infrastructure.
 
 ## Certificates & Workshops:
-- **SnowPro Core** - 2024
-- **Advanced Data Analyst Certification** - 2024
-- **Masters Summit for Qlik** - Vienna, 2024
 - **Data Exploration & Analysis with SAS Studio** - Budapest, 2017
 - **ECDL Certification** - 2008
 
@@ -49,9 +46,6 @@ With a solid foundation in spatial analysis and statistics, and 9 years of data 
 - Photogrammetry, CAD Systems
 - Technical Informatics
 - Project Management
-
-### Bachelor of Science in Geography
-**Ferenc Rákóczi II. Transcarpathian Hungarian Institute**
 
 ## Key Skills:
 
