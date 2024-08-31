@@ -2,7 +2,8 @@
 **BI DEVELOPER │ BUSINESS ANALYST**
 
 ## Contact:
-- **Email:** <a href="mailto:kurtyakadam@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+- **Email:** <a href="mailto:kurtyakadam@gmail.com?"><img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--google-brand-brands-pack-logos-icons-226399.png?f=webp&w=16"/></a>
+
 - **Phone:** 36 (30) 717-5337
 - **Location:** Budapest, HU
 
