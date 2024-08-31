@@ -2,8 +2,8 @@
 **BI DEVELOPER │ BUSINESS ANALYST**
 
 ## Contact:
-- **Email:** kurtyakadam@gmail.com
-- **Phone:** +36307175337
+- **Email:** kurtyakadam [at] gmail [dot] com
+- **Phone:** 36 (30) 717-5337
 - **Location:** Budapest, HU
 
 ## Summary:
@@ -30,3 +30,53 @@ With a solid foundation in spatial analysis and statistics, and 9 years of data 
 - Analyzed and interpreted DDoS alarms and site vulnerability scanner logs for the IT Security department using Python.
 - Delivered comprehensive reports on data quality, risk management, CapEx, and asset management for the Finance and Networks departments.
 - Conducted physical asset surveys across various PoP sites (data centers) in Europe, contributing to the integrity of the Network Infrastructure.
+
+## Certificates & Workshops:
+- **SnowPro Core** - 2024
+- **Advanced Data Analyst Certification** - 2024
+- **Masters Summit for Qlik** - Vienna, 2024
+- **Data Exploration & Analysis with SAS Studio** - Budapest, 2017
+- **ECDL Certification** - 2008
+
+## Education:
+
+### Master of Science in Geography and Geoinformatics
+**University of Debrecen, Faculty of Science and Technology**
+- Applied Geomathematics, Modeling, Simulation
+- Data Collection Techniques
+- Database Management
+- GIS Programming with Python
+- Photogrammetry, CAD Systems
+- Technical Informatics
+- Project Management
+
+### Bachelor of Science in Geography
+**Ferenc Rákóczi II. Transcarpathian Hungarian Institute**
+
+## Key Skills:
+
+### Technology:
+- SQL
+- Snowflake
+- dbt
+- Python
+- Qlik Sense
+- Agile
+- Scrum
+- JIRA
+- git
+- Elastic
+- Kibana
+- ArcGIS
+
+### Interpersonal:
+- Driven
+- Disciplined
+- Solution-oriented
+- Collaborative
+- Accountable
+- Flexible
+
+## Languages:
+- **Hungarian** - Native
+- **English** - Professional Proficiency
