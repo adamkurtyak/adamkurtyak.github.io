@@ -1,40 +1,43 @@
 # Ádám Kurtyák
-**BI DEVELOPER │ BUSINESS ANALYST**
+**BI DEVELOPER │ ANALYTICS ENGINEER**
 
 ## Contact:
-- **Email:** <a href="mailto:kurtyakadam@gmail.com?"><img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--google-brand-brands-pack-logos-icons-226399.png?f=webp&w=16"/></a>
+- **Email:** <a href="mailto:kurtyakadam@gmail.com?"></a>
 
 - **Phone:** 36 (30) 717-5337
 - **Location:** Budapest, HU
 
 ## Summary:
-With a solid foundation in spatial analysis and statistics, and 9 years of data analysis expertise, I excel in working with complex datasets and leveraging them to generate actionable Business Intelligence insights.
+Equipped with a solid background in statistics and spatial analysis, along with more than 9 years of relevant experience, I always feel at home dealing with complex datasets. Interested in continuous learning, I am now advance my career towards becoming an Analytics Engineer to continue developing my skills.
 
 ## Experience:
 
 ### Senior BI Developer
 **Arelion Hungary Kft. – Software & Data Engineering**  
 *Nov 2023 – Present*
-- Enhanced and managed Business Intelligence tools, focusing on Qlik products.
-- Ensured data governance and implemented robust security protocols to safeguard data access.
+•	Oversaw server management, security setup, license control, data governance and performance tuning of the Qlik environment.
 
 ### BI Developer
 **Arelion (Telia Carrier) Hungary Kft. – IT & Engineering**  
 *Jul 2017 – Nov 2023*
-- Facilitated Qlik training and provided ongoing support to business users, enhancing their analytical competencies.
-- Led the Qlik Sense migration project, coordinating effectively during the separation of Arelion from Telia Company.
-- Recognized as Star of the Month within Telia Carrier Global for exceptional performance.
+•	Mentored Qlik developers
+•	Coordinated the blueprint of a new BI environment, resulting in €48k in savings and a 67% increase in users in the first year.
+•	Led the migration of over 200 BI reports when Arelion split from its parent company.
+•	Employee of the Month in Telia Carrier Global, for outstanding performance.
 
 ### Data Quality Analyst
 **TeliaSonera Hungaria Kft. – Data Quality Team**  
 *Oct 2015 – Jul 2017*
-- Analyzed and interpreted DDoS alarms and site vulnerability scanner logs for the IT Security department using Python.
-- Delivered comprehensive reports on data quality, risk management, CapEx, and asset management for the Finance and Networks departments.
-- Conducted physical asset surveys across various PoP sites (data centers) in Europe, contributing to the integrity of the Network Infrastructure.
+•	Utilized Python to analyze DDoS cyber attacks and site vulnerability scanner logs.
+•	Created reports on data quality, risks and management of assets for Finance and Networks.
+•	Audited network equipment in data centers across the Netherlands, Russia, Spain, Sweden, Switzerland, and the United Kingdom to ensure the Internet backbone infrastructure.
 
-## Certificates & Workshops:
-- **Data Exploration & Analysis with SAS Studio** - Budapest, 2017
-- **ECDL Certification** - 2008
+## Advanced Workshops:
+•	Masters Summit for Qlik – Vienna, 2024
+•	L-Tér: Bentley MicroStation – Budapest, 2022
+•	Digpro dpCom System – Stockholm, 2020
+•	Dmlab: Data Science & Big Data training – Budapest, 2018
+•	Data exploration & Analysis with SAS Studio – Budapest, 2017
 
 ## Education:
 
@@ -47,10 +50,20 @@ With a solid foundation in spatial analysis and statistics, and 9 years of data 
 - Photogrammetry, CAD Systems
 - Technical Informatics
 - Project Management
+- 
+## Certificates & Workshops:
+•	Professional Scrum Master (PSM I)
+•	SnowPro Core
 
 ## Key Skills:
+- Driven
+- Disciplined
+- Solution-oriented
+- Collaborative
+- Accountable
+- Flexible
 
-### Technology:
+## Technical Skills:
 - SQL
 - Snowflake
 - dbt
@@ -63,14 +76,8 @@ With a solid foundation in spatial analysis and statistics, and 9 years of data 
 - Elastic
 - Kibana
 - ArcGIS
-
-### Interpersonal:
-- Driven
-- Disciplined
-- Solution-oriented
-- Collaborative
-- Accountable
-- Flexible
+- MicroStation
+- Digpro
 
 ## Languages:
 - **Hungarian** - Native
