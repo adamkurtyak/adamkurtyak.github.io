@@ -8,7 +8,7 @@
 - **[LinkedIn](http://www.linkedin.com/in/adamkurtyak)**
 
 ## <span>Professional Summary:</span>
-Equipped with a solid background in statistics and spatial analysis along with more than 9 years of relevant experience, I always feel at home dealing with complex datasets. Interested in continuous learning, I am now advancing my career towards becoming an Analytics Engineer to continue developing my skills.
+Equipped with a solid background in statistics and spatial analysis along with more than 9 years of relevant experience, I always feel at home dealing with complex datasets. Committed to continuous learning, I am now advancing my career towards becoming an Analytics Engineer to further develop my skills.
 
 ## <span>Experience:</span>
 
