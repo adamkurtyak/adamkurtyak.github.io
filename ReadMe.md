@@ -61,7 +61,6 @@ Equipped with a solid background in statistics and spatial analysis along with m
 |------------------|----------------|-------------------|
 | Driven           | Disciplined    | Solution-oriented |
 | Collaborative    | Accountable    | Flexible          |
-|                  |                |                   |
 
 ## <span>Technical Skills:</span>
 
@@ -70,7 +69,6 @@ Equipped with a solid background in statistics and spatial analysis along with m
 | SQL     | Snowflake    | dbt     | Python | Qlik   |
 | Agile   | Scrum        | JIRA    | Git    |Elastic | 
 | ArcGIS  | MicroStation | Digpro  |        |        | 
-|         |              |         |        |        |
 
 ## <span>Languages:</span>
 - **Hungarian** – Native  
