@@ -5,7 +5,7 @@
 - **Email:** [kurtyakadam[at]gmail[dot]com](mailto:kurtyakadam@gmail.com)
 - **Phone:** +36 (30) 7I7-5 337
 - **Location:** Budapest, HU
-- **LinkedIn:** [adamkurtyak](http://www.linkedin.com/in/adamkurtyak)
+- **[LinkedIn](http://www.linkedin.com/in/adamkurtyak)**
 
 ## <span>Professional Summary:</span>
 Equipped with a solid background in statistics and spatial analysis along with more than 9 years of relevant experience, I always feel at home dealing with complex datasets. Interested in continuous learning, I am now advancing my career towards becoming an Analytics Engineer to continue developing my skills.
