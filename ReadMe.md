@@ -25,7 +25,7 @@ Equipped with a solid background in statistics and spatial analysis along with m
 • Led the migration of over 200 BI reports when Arelion split from its parent company.  
 • Employee of the Month in Telia Carrier Global for outstanding performance.
 
-### Data Quality Analyst  
+### Data Analyst  
 **TeliaSonera Hungaria Kft. – Data Quality Team**  
 *Oct 2015 – Jul 2017*  
 • Utilized Python to analyze DDoS cyberattacks and site vulnerability scanner logs.  
@@ -51,7 +51,7 @@ Equipped with a solid background in statistics and spatial analysis along with m
 - Technical Informatics  
 - Project Management
 
-## <span>Certificates & Workshops:</span>
+## <span>Certificates:</span>
 • Professional Scrum Master (PSM I)  
 • SnowPro Core
 
