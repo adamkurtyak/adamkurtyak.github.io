@@ -15,7 +15,7 @@ Equipped with a solid background in statistics and spatial analysis along with m
 ### Senior BI Developer  
 **Arelion Hungary Kft. – Software & Data Engineering**  
 *Nov 2023 – Present*  
-• Oversaw server management, security setup, license control, data governance, and performance tuning of the Qlik environment.
+• Overseeing server management, security setup, license control, data governance, and performance tuning of the Qlik environment.
 
 ### BI Developer  
 **Arelion (Telia Carrier) Hungary Kft. – IT & Engineering**  
