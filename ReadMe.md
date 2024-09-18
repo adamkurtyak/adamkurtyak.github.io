@@ -22,7 +22,7 @@ Equipped with a solid background in statistics and spatial analysis along with m
 *Jul 2017 – Nov 2023*  
 • Mentored Qlik developers.  
 • Coordinated the blueprint of a new BI environment, resulting in €48k in savings and a 67% increase in users in the first year.  
-• Led the migration of over 200 BI reports when Arelion split from its parent company.  
+• Led the migration of over 400 BI reports when Arelion split from its parent company.  
 • Employee of the Month in Telia Carrier Global for outstanding performance.
 
 ### Data Analyst  
