@@ -7,6 +7,11 @@
 - **Location:** Budapest, HU
 - **[LinkedIn](http://www.linkedin.com/in/adamkurtyak)**
 
+## Export in PDF
+[Open](https://raw.githubusercontent.com/adamkurtyak/adamkurtyak.github.io/refs/heads/main/cv/cv.pdf)
+Download:
+<a href="https://raw.githubusercontent.com/adamkurtyak/adamkurtyak.github.io/refs/heads/main/cv/cv.pdf" download>Download my CV</a>
+
 ## <span>Professional Summary:</span>
 Equipped with a solid background in statistics and spatial analysis along with more than 9 years of relevant experience, I always feel at home dealing with complex datasets. Committed to continuous learning, I am now advancing my career towards becoming an Analytics Engineer to further develop my skills.
 
@@ -73,8 +78,3 @@ Equipped with a solid background in statistics and spatial analysis along with m
 ## <span>Languages:</span>
 - **Hungarian** – Native  
 - **English** – Professional Proficiency
-
-## Download my latest CV
-[Open](https://github.com/adamkurtyak/adamkurtyak.github.io/blob/main/cv/cv.pdf)
-Download:
-<a href="https://github.com/adamkurtyak/adamkurtyak.github.io/blob/main/cv/cv.pdf" download>Download my CV</a>
