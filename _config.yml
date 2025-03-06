@@ -2,5 +2,8 @@ title: CV
 description: Welcome on my page!
 theme: jekyll-theme-minimal
 
-# Custom URL
+show_downloads: true
+
 export_in_pdf: https://raw.githubusercontent.com/adamkurtyak/adamkurtyak.github.io/refs/heads/main/cv/cv.pdf
+github:
+  zip_url: https://raw.githubusercontent.com/adamkurtyak/adamkurtyak.github.io/refs/heads/main/cv/cv.pdf
