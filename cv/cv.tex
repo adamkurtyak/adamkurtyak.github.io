@@ -1,0 +1,139 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[margin=0.9in, top=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{multicol}
+\setlength{\parindent}{0pt}
+\pagenumbering{gobble}
+
+% Custom commands
+\renewcommand{\scriptsize}{\fontsize{9}{10}\selectfont}
+\newcommand{\heading}[1]{\vspace{6pt}\textbf{\large #1}\vspace{2pt}\hrule\vspace{2pt}}
+\newcommand{\subheading}[1]{\vspace{4pt} \textbf{#1}\vspace{2pt}}
+\newcommand{\columnitems}[1]{%
+    \begin{multicols}{3}%
+    \begin{itemize}[noitemsep]
+        #1
+    \end{itemize}
+    \end{multicols}%
+}
+
+\begin{document}
+\begin{center}
+    {\LARGE \textbf{\textsc{\'Ad\'am Kurty\'ak}}}\\
+    \textbf{BI Developer \textbar\ Analytics Engineer}\\
+    \vspace{4pt}
+    \small {kurtyakadam[at]gmail.com} \textbar\  +36 (30) 7I7-5 337 \textbar\ Budapest, HU \textbar\ \href{https://www.linkedin.com/in/adamkurtyak/}{LinkedIn: adamkurtyak}
+\end{center}
+
+\heading{Professional Summary}
+Equipped with a solid background in statistics and spatial analysis along with more than 9 years of relevant experience, I always feel at home dealing with complex datasets. Committed to continuous learning, I am now advancing my career towards becoming an Analytics Engineer to further develop my skills.
+
+\heading{Key Skills}
+\vspace{-10pt}
+\columnitems{
+    \item Driven
+    \item Disciplined
+    \item Solution-oriented
+    \item Collaborative
+    \item Accountable
+    \item Flexible
+}
+\vspace{-10pt}
+\heading{Technical Skills}
+\vspace{-10pt}
+\begin{multicols}{4}
+\begin{itemize}[noitemsep, topsep=0pt]
+    \item SQL
+    \item Snowflake
+    \item dbt
+    \item ETL / ELT
+    \item Python
+    \item Qlik
+    \item Agile, Scrum
+    \item JIRA
+    \item Git
+    \item Elastic
+    \item Kibana
+    \item ArcGIS
+    %\item MicroStation
+    %\item Digpro
+    %\item ODBC / REST
+\end{itemize}
+\end{multicols}
+
+\vspace{-10pt}
+\heading{Experience}
+\subheading{Senior BI Developer} {\scriptsize \textbar\ Nov 2023 -- Present \vspace{-4pt}\\
+{Arelion Hungary Kft. -- Software \& Data Engineering}}
+\vspace{1pt}
+\begin{itemize}[noitemsep, topsep=0pt]
+    \item Overseeing server management, security setup, license control, data governance, and performance tuning of the Qlik environment.
+\end{itemize}
+
+\subheading{BI Developer} {\scriptsize \textbar\ Jul 2017 -- Nov 2023 \vspace{-4pt}\\
+{Arelion (Telia Carrier) Hungary Kft. -- IT \& Engineering}}
+\vspace{1pt}
+\begin{itemize}[noitemsep, topsep=0pt]
+    \item Mentored Qlik developers.
+    \item Coordinated the blueprint of a new BI environment, resulting in €48k in savings and a 67\% increase in users in the first year.
+    \item Led the migration of over 300 BI reports when Arelion split from its parent company.
+    \item Employee of the Month in Telia Carrier Global for outstanding performance.
+\end{itemize}
+
+\subheading{Data Analyst} {\scriptsize \textbar\ Oct 2015 -- Jul 2017 \vspace{-4pt}\\
+{TeliaSonera International Carrier Hungaria Kft. -- Data Quality Team}}
+\vspace{1pt}
+\begin{itemize}[noitemsep, topsep=0pt]
+    \item Utilized Python to analyze DDoS cyberattacks and site vulnerability scanner logs.
+    \item Created reports on data quality, risks, and management of assets for Finance and Networks.
+    \item Audited network equipment in data centers across the Netherlands, Russia, Spain, Sweden, Switzerland, and the UK.
+\end{itemize}
+
+\heading{Education}
+\subheading{Master of Science in Geography and Geoinformatics} \vspace{-4pt} \\
+{\scriptsize {University of Debrecen}}\\
+\vspace{-14pt}
+%\begin{multicols}{2}
+%\setlength\columnsep{10pt}
+%\begin{minipage}[t]{0.9\textwidth}
+%\begin{itemize}[noitemsep, topsep=0pt]
+%    \item Applied Geomathematics, Modeling, Simulation
+%    \item Data Collection Techniques
+%    \item Database Management
+%\end{itemize}
+%\end{minipage}
+%\begin{minipage}[t]{0.9\textwidth} 
+%	\begin{itemize}[noitemsep, topsep=0pt]
+%    \item GIS Programming with Python
+%    \item Photogrammetry, CAD Systems
+%    \item Project management
+%\end{itemize}
+%\end{minipage}
+%\end{multicols}
+
+\heading{Advanced Workshops}
+\begin{itemize}[noitemsep, topsep=0pt]
+    \item Masters Summit for Qlik -- Vienna, 2024
+    %\item L-T\'er: Bentley MicroStation -- Budapest, 2022
+    %\item Digpro dpCom System -- Stockholm, 2020
+    \item Dmlab: Data Science \& Big Data training -- Budapest, 2018
+    \item Data Exploration \& Analysis with SAS Studio -- Budapest, 2017
+\end{itemize}
+
+\heading{Certificates}
+\begin{itemize}[noitemsep, topsep=0pt]
+    \item Professional Scrum Master (PSM I)
+\end{itemize}
+
+\heading{Languages}
+\begin{itemize}[noitemsep, topsep=0pt]
+    \item Hungarian -- Native
+\end{itemize}
+
+\begin{flushright}
+\tiny \the\year.\ifnum\the\month<10 0\fi\the\month.\ifnum\the\day<10 0\fi\the\day
+\end{flushright}
+
+
+\end{document}
