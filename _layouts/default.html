@@ -32,10 +32,7 @@
         {% endif %}
 
         {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.pdf_url }}">Download <strong>PDF File</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
+        <a href="{{ site.github.pdf_url }}" class="btn">Export PDF</a>
         {% endif %}
       </header>
       <section>
