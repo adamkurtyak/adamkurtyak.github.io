@@ -73,3 +73,8 @@ Equipped with a solid background in statistics and spatial analysis along with m
 ## <span>Languages:</span>
 - **Hungarian** – Native  
 - **English** – Professional Proficiency
+
+## Download my latest CV
+[Open](https://github.com/adamkurtyak/adamkurtyak.github.io/blob/main/cv/cv.pdf)
+Download:
+<a href="https://github.com/adamkurtyak/adamkurtyak.github.io/blob/main/cv/cv.pdf" download>Download my CV</a>
