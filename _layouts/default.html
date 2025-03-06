@@ -27,12 +27,12 @@
         <a href="{{ site.github.pdf_url }}" class="btn">Download in PDF</a>
         {% endif %}
         
-        {% if site.show_downloads %}
-        <p class="view"><a href="{{ site.github.repository_url }}"> Repository <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}"> Profile <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">Profile</a></p>
+        {% if site.show_downloads %}
+        <p class="view"><a href="{{ site.github.repository_url }}">Repository</a></p>
         {% endif %}
 
       </header>
