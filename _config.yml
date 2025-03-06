@@ -1,3 +1,9 @@
 title: CV
 description: Welcome on my page!
+
+## Download my latest CV
+[Open](https://raw.githubusercontent.com/adamkurtyak/adamkurtyak.github.io/refs/heads/main/cv/cv.pdf)
+Download:
+<a href="https://raw.githubusercontent.com/adamkurtyak/adamkurtyak.github.io/refs/heads/main/cv/cv.pdf" download>Download my CV</a>
+
 theme: jekyll-theme-minimal
