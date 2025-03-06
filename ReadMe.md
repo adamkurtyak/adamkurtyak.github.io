@@ -1,5 +1,4 @@
-# Ádám Kurtyák  
-**BI DEVELOPER │ ANALYTICS ENGINEER**
+# BI DEVELOPER │ ANALYTICS ENGINEER**
 
 ## Contact:
 - **Email:** [kurtyakadam[at]gmail[dot]com](mailto:kurtyakadam@gmail.com)
