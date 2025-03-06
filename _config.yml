@@ -1,8 +1,8 @@
-title: CV
-description: Welcome on my page!
+title: Professional Portfolio
+description: Welcome to my CV page! Here you can find a detailed summary of my skills, experience, and accomplishments.
+Feel free to download the printable PDF or explore my projects below.
 theme: jekyll-theme-minimal
 
 show_downloads: true
 
-github:
-  pdf_url: https://raw.githubusercontent.com/adamkurtyak/adamkurtyak.github.io/refs/heads/main/cv/cv.pdf
+pdf_url: https://raw.githubusercontent.com/adamkurtyak/adamkurtyak.github.io/refs/heads/main/cv/cv.pdf
