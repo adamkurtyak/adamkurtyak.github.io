@@ -24,7 +24,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         {% if site.show_downloads %}
-        <a href="{{ pdf_url }}" class="btn">Download in PDF</a>
+        <a href="{{ site.github.pdf_url }}" class="btn">Download in PDF</a>
         {% endif %}
         <br>
         {% if site.github.is_project_page %}
