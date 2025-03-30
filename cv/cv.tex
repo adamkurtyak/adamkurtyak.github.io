@@ -1,13 +1,16 @@
 \documentclass[a4paper,11pt]{article}
-\usepackage[margin=0.9in, top=1in]{geometry}
+\usepackage[sfdefault]{roboto}
+\usepackage[T1]{fontenc}
+\usepackage[margin=0.5in, top=0.5in]{geometry}
 \usepackage{enumitem}
 \usepackage{hyperref}
 \usepackage{multicol}
 \setlength{\parindent}{0pt}
 \pagenumbering{gobble}
 
-% Custom commands
+% Cust. commands
 \renewcommand{\scriptsize}{\fontsize{9}{10}\selectfont}
+\newcommand{\sqcite}[1]{\textsuperscript{#1}}
 \newcommand{\heading}[1]{\vspace{6pt}\textbf{\large #1}\vspace{2pt}\hrule\vspace{2pt}}
 \newcommand{\subheading}[1]{\vspace{4pt} \textbf{#1}\vspace{2pt}}
 \newcommand{\columnitems}[1]{%
@@ -19,15 +22,19 @@
 }
 
 \begin{document}
+
 \begin{center}
-    {\LARGE \textbf{\textsc{\'Ad\'am Kurty\'ak}}}\\
-    \textbf{BI Developer \textbar\ Analytics Engineer}\\
+    {\LARGE \textbf{\textsc {Ádám Kurtyák} \textbar}} \textbf{ Senior BI Developer \& Analytics Engineer} \\
     \vspace{4pt}
-    \small {kurtyakadam[at]gmail.com} \textbar\  +36 (30) 7I7-5 337 \textbar\ Budapest, HU \textbar\ \href{https://www.linkedin.com/in/adamkurtyak/}{LinkedIn: adamkurtyak}
+    \small \href{mailto:adamkurtyak.job509@passinbox.com}{adamkurtyak.job509@passinbox.com } \textbar\ +36 (30) 7I7-5 337 \textbar\ Budapest, HU \textbar\ \href{https://www.linkedin.com/in/adamkurtyak/}{LinkedIn: adamkurtyak}
 \end{center}
 
+\vspace{-4pt}
 \heading{Professional Summary}
-Equipped with a solid background in statistics and spatial analysis along with more than 9 years of relevant experience, I always feel at home dealing with complex datasets. Committed to continuous learning, I am now advancing my career towards becoming an Analytics Engineer to further develop my skills.
+\vspace{4pt}
+\hspace{15pt}
+Senior BI Developer transitioning to Analytics Engineering, with 10 years of experience transforming complex datasets into business value.
+Proven track record in leading cost-saving initiatives and scaling BI environments.
 
 \heading{Key Skills}
 \vspace{-10pt}
@@ -42,52 +49,62 @@ Equipped with a solid background in statistics and spatial analysis along with m
 \vspace{-10pt}
 \heading{Technical Skills}
 \vspace{-10pt}
-\begin{multicols}{4}
-\begin{itemize}[noitemsep, topsep=0pt]
-    \item SQL
-    \item Snowflake
-    \item dbt
-    \item ETL / ELT
-    \item Python
-    \item Qlik
-    \item Agile, Scrum
-    \item JIRA
-    \item Git
-    \item Elastic
-    \item Kibana
-    \item ArcGIS
-    %\item MicroStation
-    %\item Digpro
-    %\item ODBC / REST
-\end{itemize}
+\begin{multicols}{3}
+    \begin{itemize}[noitemsep, topsep=0pt]
+        \item [] \textbf{BI \& Analytics}
+        \item \sqcite{1} Qlik
+        \item \sqcite{2} SQL
+        \item \sqcite{3} NoSQL
+        \item Python (NumPy, ArcPy)
+    \end{itemize}
+    \columnbreak
+    \begin{itemize}[noitemsep, topsep=0pt]
+        \item [] \textbf{Data Modelling \&  DevOps} 
+        \item ETL / ELT
+        \item dbt
+        \item GitHub Actions (CI/CD)
+        \item REST / SOAP API
+    \end{itemize}
+    \columnbreak
+    \begin{itemize}[noitemsep, topsep=0pt]
+        \item [] \textbf{Collaboration}
+        \item Agile
+        \item Scrum
+        \item JIRA
+        \item Confluence
+    \end{itemize}
 \end{multicols}
 
 \vspace{-10pt}
 \heading{Experience}
-\subheading{Senior BI Developer} {\scriptsize \textbar\ Nov 2023 -- Present \vspace{-4pt}\\
+\subheading{Senior BI Developer} {\scriptsize \textbar\ Nov 2023 -- Present \vspace{-2pt}\\
 {Arelion Hungary Kft. -- Software \& Data Engineering}}
 \vspace{1pt}
 \begin{itemize}[noitemsep, topsep=0pt]
-    \item Overseeing server management, security setup, license control, data governance, and performance tuning of the Qlik environment.
+    \item Initiated and led Qlik Cloud migration, securing €75k/year
+    \item Built IP-whitelisted Data Gateway and integrated 20 different data connection types
+    \item Implemented automated backups, email report distribution and GitHub actions in Qlik Cloud
+    \item Optimized Snowflake data warehouse usage for Qlik, saving \$8k/year
+    \item Managing Qlik support channels (email/Teams) for over 300 global users and developers since 2022
 \end{itemize}
 
-\subheading{BI Developer} {\scriptsize \textbar\ Jul 2017 -- Nov 2023 \vspace{-4pt}\\
-{Arelion (Telia Carrier) Hungary Kft. -- IT \& Engineering}}
+\subheading{BI Developer} {\scriptsize \textbar\ Jul 2017 -- Nov 2023 \vspace{-2pt}\\
+{Telia Carrier Hungary Kft. -- IT \& Engineering}}
 \vspace{1pt}
 \begin{itemize}[noitemsep, topsep=0pt]
-    \item Mentored Qlik developers.
-    \item Coordinated the blueprint of a new BI environment, resulting in €48k in savings and a 67\% increase in users in the first year.
-    \item Led the migration of over 300 BI reports when Arelion split from its parent company.
-    \item Employee of the Month in Telia Carrier Global for outstanding performance.
+    \item Mentored Qlik developers across international teams
+    \item Redesigned BI environment, driving €48k savings and 67\% user growth in Year 1
+    \item Led the migration of over 300 BI reports during corporate divestiture
+    \item Recognized as Employee of the Month in Telia Carrier Global for outstanding performance
 \end{itemize}
 
-\subheading{Data Analyst} {\scriptsize \textbar\ Oct 2015 -- Jul 2017 \vspace{-4pt}\\
-{TeliaSonera International Carrier Hungaria Kft. -- Data Quality Team}}
+\subheading{Data Analyst} {\scriptsize \textbar\ Oct 2015 -- Jul 2017 \vspace{-2pt}\\
+{TeliaSonera International Carrier Hungaria Kft. -- Networks Ops, Data Quality Team}}
 \vspace{1pt}
 \begin{itemize}[noitemsep, topsep=0pt]
-    \item Utilized Python to analyze DDoS cyberattacks and site vulnerability scanner logs.
-    \item Created reports on data quality, risks, and management of assets for Finance and Networks.
-    \item Audited network equipment in data centers across the Netherlands, Russia, Spain, Sweden, Switzerland, and the UK.
+    \item Analyzed DDoS cyberattacks and site vulnerabilities using Python
+    \item Developed data quality, asset and risk reports for Finance and Networks
+    \item Conducted network equipment audits in major European data centers across 6 countries
 \end{itemize}
 
 \heading{Education}
@@ -128,12 +145,19 @@ Equipped with a solid background in statistics and spatial analysis along with m
 
 \heading{Languages}
 \begin{itemize}[noitemsep, topsep=0pt]
-    \item Hungarian -- Native
+        \item Hungarian (Native), English (Professional Proficiency)
 \end{itemize}
 
-\begin{flushright}
-\tiny \the\year.\ifnum\the\month<10 0\fi\the\month.\ifnum\the\day<10 0\fi\the\day
-\end{flushright}
+\begin{flushleft}
+    {\scriptsize \sqcite{2} Admin, Backup, Patching, Upgrades, Tuning, Data connectors, Gateways, Automations, GeoAnalytics, Nprinting}
 
+    {\scriptsize \sqcite{2} Snowflake, Oracle, PostgreSQL, BigQuery, MySQL, MSSQL, Salesforce SOQL}
+
+    {\scriptsize \sqcite{3} Elasticsearch w/ Kibana, MongoDB}
+\end{flushleft}
+
+\begin{flushright}
+    \tiny \the\year.\ifnum\the\month<10 0\fi\the\month.\ifnum\the\day<10 0\fi\the\day
+\end{flushright}
 
 \end{document}
