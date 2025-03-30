@@ -24,7 +24,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         {% if site.show_downloads %}
-        <a href="{{ site.github.pdf_url }}" class="btn">Download in PDF</a>
+        <a href="{{ site.github.pdf_url }}" class="btn">Download CV in PDF</a>
         {% endif %}
         <br>
         {% if site.github.is_project_page %}
@@ -32,7 +32,7 @@
         {% endif %}
         <br>
         {% if site.show_downloads %}
-        <p class="view"><a href="{{ site.github.repository_url }}">Repository</a></p>
+        <p class="view"><a href="{{ site.github.repository_url }}">Repository (Hidden)</a></p>
         {% endif %}
 
       </header>
