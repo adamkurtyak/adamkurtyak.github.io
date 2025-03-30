@@ -1,74 +1,72 @@
-## BI DEVELOPER │ ANALYTICS ENGINEER
+## SENIOR BI DEVELOPER │ ANALYTICS ENGINEER  
 
-## Contact:
-- **Email:** [kurtyakadam[at]gmail[dot]com](mailto:kurtyakadam@gmail.com)
-- **Phone:** +36 (30) 7I7-5 337
-- **Location:** Budapest, HU
-- **[LinkedIn](http://www.linkedin.com/in/adamkurtyak)**
+## Contact:  
+- **Email:** [adamkurtyak.job509@passinbox.com](mailto:adamkurtyak.job509@passinbox.com)  
+- **Phone:** +36 (30) 7I7-5 337  
+- **Location:** Budapest, HU  
+- **[LinkedIn](https://www.linkedin.com/in/adamkurtyak)**  
 
-## <span>Professional Summary:</span>
-Equipped with a solid background in statistics and spatial analysis along with more than 9 years of relevant experience, I always feel at home dealing with complex datasets. Committed to continuous learning, I am now advancing my career towards becoming an Analytics Engineer to further develop my skills.
+## <span>Professional Summary:</span>  
+Senior BI Developer transitioning to Analytics Engineering, with **10 years** of experience transforming complex datasets into business value. Proven track record in leading cost-saving initiatives, scaling BI environments, and mentoring teams.  
 
-## <span>Experience:</span>
+## <span>Experience:</span>  
 
 ### Senior BI Developer  
 **Arelion Hungary Kft. – Software & Data Engineering**  
 *Nov 2023 – Present*  
-• Overseeing server management, security setup, license control, data governance, and performance tuning of the Qlik environment.
+- Led Qlik Cloud migration, saving **€75k/year**.  
+- Built IP-whitelisted Data Gateway integrating **20+ data sources**.  
+- Automated backups, email reports, and GitHub Actions for Qlik Cloud.  
+- Optimized Snowflake usage, saving **\$8k/year**.  
+- Managed Qlik support for **300+ global users**.  
 
 ### BI Developer  
-**Arelion (Telia Carrier) Hungary Kft. – IT & Engineering**  
+**Telia Carrier Hungary Kft. – IT & Engineering**  
 *Jul 2017 – Nov 2023*  
-• Mentored Qlik developers.  
-• Coordinated the blueprint of a new BI environment, resulting in €48k in savings and a 67% increase in users in the first year.  
-• Led the migration of over 300 BI reports when Arelion split from its parent company.  
-• Employee of the Month in Telia Carrier Global for outstanding performance.
+- Mentored Qlik developers across international teams.  
+- Redesigned BI environment, driving **€48k savings** and **67% user growth** in Year 1.  
+- Led migration of **300+ BI reports** during corporate divestiture.  
+- Recognized as **Employee of the Month** in Telia Carrier Global.  
 
 ### Data Analyst  
-**TeliaSonera Hungaria Kft. – Data Quality Team**  
+**TeliaSonera International Carrier Hungaria Kft. – Data Quality Team**  
 *Oct 2015 – Jul 2017*  
-• Utilized Python to analyze DDoS cyberattacks and site vulnerability scanner logs.  
-• Created reports on data quality, risks, and management of assets for Finance and Networks.  
-• Audited network equipment in data centers across the Netherlands, Russia, Spain, Sweden, Switzerland, and the United Kingdom to maintain the Internet backbone infrastructure.
+- Analyzed DDoS attacks and vulnerabilities using **Python**.  
+- Developed data quality/risk reports for Finance and Networks.  
+- Audited network equipment in **6 European countries**.  
 
-## <span>Advanced Workshops:</span>
-• Masters Summit for Qlik – Vienna, 2024  
-• L-Tér: Bentley MicroStation – Budapest, 2022  
-• Digpro dpCom System – Stockholm, 2020  
-• Dmlab: Data Science & Big Data training – Budapest, 2018  
-• Data Exploration & Analysis with SAS Studio – Budapest, 2017
+## <span>Advanced Workshops:</span>  
+- Masters Summit for Qlik – Vienna, 2024  
+- Dmlab: Data Science & Big Data training – Budapest, 2018  
+- Data Exploration & Analysis with SAS Studio – Budapest, 2017  
 
-## <span>Education:</span>
+## <span>Education:</span>  
 
 ### Master of Science in Geography and Geoinformatics  
-**University of Debrecen, Faculty of Science and Technology**  
+**University of Debrecen**  
 - Applied Geomathematics, Modeling, Simulation  
-- Data Collection Techniques  
-- Database Management  
 - GIS Programming with Python  
-- Photogrammetry, CAD Systems  
-- Technical Informatics  
-- Project Management
+- Database Management  
+- Project Management  
 
-## <span>Certificates:</span>
-• Professional Scrum Master (PSM I)  
-• SnowPro Core
+## <span>Certificates:</span>  
+- Professional Scrum Master (PSM I)  
 
 ## <span>Key Skills:</span>  
 
-|                  |                |                   |
-|------------------|----------------|-------------------|
-| Driven           | Disciplined    | Solution-oriented |
-| Collaborative    | Accountable    | Flexible          |
+|                  |                |                   |  
+|------------------|----------------|-------------------|  
+| Driven           | Disciplined    | Solution-oriented |  
+| Collaborative    | Accountable    | Flexible          |  
 
-## <span>Technical Skills:</span>
+## <span>Technical Skills:</span>  
 
-|         |              |         |        |        |
-|---------|--------------|---------|--------|--------|
-| SQL     | Snowflake    | dbt     | Python | Qlik   |
-| Agile   | Scrum        | JIRA    | Git    |Elastic | 
-| ArcGIS  | MicroStation | Digpro  |        |        | 
+|           |              |           |          |          |  
+|-----------|--------------|-----------|----------|----------|  
+| Qlik      | SQL          | Snowflake | Python   | dbt      |  
+| ETL/ELT   | GitHub Actions | REST API | Agile    | Scrum    |  
+| JIRA      | Confluence   | Elasticsearch | Kibana  |          |  
 
-## <span>Languages:</span>
+## <span>Languages:</span>  
 - **Hungarian** – Native  
-- **English** – Professional Proficiency
+- **English** – Professional Proficiency  
