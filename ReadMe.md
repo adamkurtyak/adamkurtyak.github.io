@@ -76,7 +76,7 @@ Senior BI Developer transitioning to Analytics Engineering, with 10 years of exp
 ## <span>Languages:</span>  
 - **Hungarian** – Native  
 - **English** – Professional Proficiency
-
+---
 <sup>1</sup> Qlik: Admin, Backup, Patching, Upgrades, Tuning, Data connectors, Gateways, Automations, GeoAnalytics, Nprinting<br>
 <sup>2</sup> SQL : Snowﬂake, Oracle, PostgreSQL, BigQuery, MySQL, MSSQL, Salesforce SOQL<br>
 <sup>3</sup> NoSQL: Elasticsearch w/ Kibana, MongoDB
