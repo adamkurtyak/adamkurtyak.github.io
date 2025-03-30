@@ -67,14 +67,16 @@ Senior BI Developer transitioning to Analytics Engineering, with 10 years of exp
 
 | BI & Analytics   | Data Modelling & DevOps | Collaboration |  
 |------------------|----------------|-------------------|  
-| <sup>[1]</sup> Qlik   |     ETL/ELT    |             Agile | 
-| <sup>[2]</sup> SQL    |     dbt       |             Scrum |  
-| <sup>[3]</sup> NoSQL  | GitHub Actions (CI/CD) |     JIRA |  
+| <sup>1</sup> Qlik   |     ETL/ELT    |             Agile | 
+| <sup>2</sup> SQL    |     dbt       |             Scrum |  
+| <sup>3</sup> NoSQL  | GitHub Actions (CI/CD) |     JIRA |  
 | Python (NumPy, ArcPy) | REST / SOAP API | Conﬂuence |  
 
-<sup>[1]</sup> Qlik: Admin, Backup, Patching, Upgrades, Tuning, Data connectors, Gateways, Automations, GeoAnalytics, Nprinting
-<sup>[2]</sup> SQL : Snowﬂake, Oracle, PostgreSQL, BigQuery, MySQL, MSSQL, Salesforce SOQL
-<sup>[3]</sup> NoSQL: Elasticsearch w/ Kibana, MongoDB
+<sup>1</sup> Qlik: Admin, Backup, Patching, Upgrades, Tuning, Data connectors, Gateways, Automations, GeoAnalytics, Nprinting
+
+<sup>2</sup> SQL : Snowﬂake, Oracle, PostgreSQL, BigQuery, MySQL, MSSQL, Salesforce SOQL
+
+<sup>3</sup> NoSQL: Elasticsearch w/ Kibana, MongoDB
 
 ## <span>Languages:</span>  
 - **Hungarian** – Native  
