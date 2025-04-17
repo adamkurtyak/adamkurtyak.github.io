@@ -2,7 +2,7 @@
 
 ## Contact:  
 - **Email:** [adamkurtyak.job509@passinbox.com](mailto:adamkurtyak.job509@passinbox.com)  
-- **Phone:** +36 (30) 7I7-5 337  
+- **Phone:** +Ʒб (ƷΟ) 7ӏ7‒5 ƷƷ7
 - **Location:** Budapest, HU  
 - **[LinkedIn](https://www.linkedin.com/in/adamkurtyak)**  
 
