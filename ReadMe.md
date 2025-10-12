@@ -14,25 +14,24 @@ Senior BI Developer transitioning to Analytics Engineering, with 10 years of exp
 ### Senior BI Developer  
 **Arelion Hungary Kft. – Software & Data Engineering**  
 *Nov 2023 – Present*  
-- Initiated and led Qlik Cloud migration, securing €75k/year
-- Built IP-whitelisted Data Gateway and integrated 20 different data connection types  
-- Implemented automated backups, email report distribution and GitHub actions in Qlik Cloud
-- Optimized Snowflake data warehouse usage for Qlik, saving $8k/year
-- Managing Qlik support channels (email/Teams) for over 300 global users and developers since 2022
+- Led Qlik Cloud migration of 400+ reports from on-premise, coordinating IT, Legal, and Business units to deliver significant license and infrastructure cost reductions
+- Built IP-whitelisted Data Gateway supporting 20+ data sources and implemented automated CI/CD pipelines with GitHub Actions, establishing a mandatory backup solution for Cloud environment
+- Developed dbt models in Snowflake to automate reliable data transformations, establishing a unified, trusted source of truth for reporting and analytics
+- Optimized Snowflake warehouse costs through query refactoring and usage-based scheduling, achieving measurable year-over-year savings
 
 ### BI Developer  
 **Telia Carrier Hungary Kft. – IT & Engineering**  
 *Jul 2017 – Nov 2023*  
-- Mentored Qlik developers across international teams
-- Redesigned BI environment, driving €48k savings and 67% user growth in Year 1
-- Led the migration of over 300 BI reports during corporate divestiture
-- Recognized as Employee of the Month in Telia Carrier Global for outstanding performance
+- Transformed BI infrastructure by implementing new access controls, governance framework and new data connections that increased platform adoption by 67 %
+- Led migration of 300+ BI reports during corporate divestiture, refactoring SQL queries to Snowflake while maintaining business continuity
+- Provided technical support and mentorship for Qlik developers across international teams
+- Developed operational and forecasting dashboards for Voice, Finance, Sales, and Network Operations
 
 ### Data Analyst  
 **TeliaSonera International Carrier Hungaria Kft. – Data Quality Team**  
 *Oct 2015 – Jul 2017*  
-- Analyzed DDoS cyberattacks and site vulnerabilities using Python
-- Developed data quality, asset and risk reports for Finance and Networks
+- Analyzed DDoS cyberattacks and network vulnerabilities using Python for threat assessment
+- Developed data quality, asset and risk reports for Finance and Networks Operations
 - Conducted network equipment audits in major European data centers across 6 countries
 
 ## <span>Advanced Workshops:</span>  
@@ -65,18 +64,14 @@ Senior BI Developer transitioning to Analytics Engineering, with 10 years of exp
 
 ## <span>Technical Skills:</span> 
 
-| BI & Analytics   | Data Modelling & DevOps | Collaboration |  
-|------------------|----------------|-------------------|  
-| <sup>1</sup> Qlik   |     ETL/ELT    |             Agile | 
-| <sup>2</sup> SQL    |     dbt       |             Scrum |  
-| <sup>3</sup> NoSQL  | GitHub Actions (CI/CD) |     JIRA |  
-| Python (NumPy, ArcPy) | REST / SOAP API | Conﬂuence |  
+| Business Intelligence   | Data & Analytics Engineering |
+|------------------|----------------|  
+| Qlik Sense (Admin, Dev, Optimization)   |     SQL (Snowﬂake, Oracle, PostgreSQL, MSSQL)   |
+| Data Modeling & Performance Tuning    |      dbt Core (Transformation, Documentation)       |
+| ETL / ELT Pipeline Design | REST API Integration |
+| | Python |
 
 
 ## <span>Languages:</span>  
 - **Hungarian** – Native  
 - **English** – Professional Proficiency
----
-<sup>1</sup> Qlik: Admin, Backup, Patching, Upgrades, Tuning, Data connectors, Gateways, Automations, GeoAnalytics, Nprinting<br>
-<sup>2</sup> SQL : Snowﬂake, Oracle, PostgreSQL, BigQuery, MySQL, MSSQL, Salesforce SOQL<br>
-<sup>3</sup> NoSQL: Elasticsearch w/ Kibana, MongoDB
